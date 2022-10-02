@@ -1,0 +1,19 @@
+install material ui      
+then install material ui lab for pagination
+apiused - coin gecko api
+
+styled
+container
+appbar for header type Appbar will get imported
+select component   tyle Select will get imported
+inside select
+<Select >
+<Menuitem><Menuitems>
+</select>
+
+
+install react alice carousel
+then  pasteimport style in index .js fron site 
+
+
+used react html parser package  to convert html in description to normal readable text
