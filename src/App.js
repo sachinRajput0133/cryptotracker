@@ -23,8 +23,8 @@ const DivStyled =styled('div')({
      <DivStyled  >
       <Header/>
        <Routes      >
-        <Route  path='/' element={<Homepage/>}  />
-        <Route  path='/coin/:id' element={<CoinePage/>}  />
+        <Route  path='/cryptotracker' element={<Homepage/>}  />
+        <Route  path='cryptotracker/coin/:id' element={<CoinePage/>}  />
        
        </Routes>
      </DivStyled>
